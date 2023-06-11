@@ -9,13 +9,4 @@ Here's a video:
 
 I wrote this program in C because I wanted to see how fast the original ncurses library would be compared to false terminals.
 
-Some neat C, GDB and NCURSES resources: 
-
-* John Erickson, _Hacking: The Art of Exploitation,_ 2nd ed., San Francisco: No Starch Press, 2008. 
-
-* Brian W. Kernighan and Rob Pike, _The UNIX Programming Environment,_ Englewood Cliffs: Prentice Hall, 1984.
-
-* Brian W. Kernighan and Dennis M. Ritchie _The C Programming Language,_ 2nd ed., Englewood Cliffs: Prentice Hall, 1988.
-
-* Pradeep Padala, "NCURSES Programming HOWTO," https://tldp.org/HOWTO/NCURSES-Programming-HOWTO/, 2005.
 
