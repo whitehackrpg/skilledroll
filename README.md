@@ -6,6 +6,7 @@ To compile the program, simply do `gcc skilledroll.c -o skilledroll -lncurses`. 
 
 Here's a video:
 
+https://github.com/whitehackrpg/skilledroll/assets/130791778/df5b9d4c-78ec-4e87-bc61-99352c483bb9
 
 I wrote this program in C because I wanted to see how fast the original ncurses library would be compared to false terminals.
 
